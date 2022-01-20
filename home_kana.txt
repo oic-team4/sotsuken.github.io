@@ -16,8 +16,8 @@
 </head>
 <body>
 <!-- ボタン ここから -->
-<a href="index.html" class="btn btn-border">にほんご</a>
 <a href="index.html" class="btn btn-border">日本語</a>
+<a href="home_kana.html" class="btn btn-border">にほんご</a>
 <a href="home_en.html" class="btn btn-border">English</a>
 <a href="home_vn.html" class="btn btn-border">Tiếng Việt</a>
 <a href="home_id.html" class="btn btn-border">Bahasa Indonesia</a>
